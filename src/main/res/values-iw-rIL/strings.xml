@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memory Card</string>
+
+    <string name="hello_blank_fragment">שלום קטע ריק</string>
+    <string name="easy_level">רמה קלה</string>
+    <string name="hard_level">רמה קשה</string>
+    <string name="select_level">בחר רמת קושי</string>
+    <string name="high_scores">טבלת ניקוד</string>
+    <string name="play_the_game">בוא נשחק את המשחק</string>
+    <string name="easy">קל</string>
+    <string name="hard">קשה</string>
+    <string name="check_top_scores_here">בדוק את הציונים המובילים כאן</string>
+    <string name="scoreboard">לוח התוצאות</string>
+    <string name="select_language">בחר שפה</string>
+    <string name="memory_card">משחק הזיכרון</string>
+    <string name="time">זמן</string>
+    <string name="top_score">ניקוד שיא: 0:</string>
+    <string name="add_event">הוסף אירוע ליומן</string>
+    <string name="add_alarm">הוסף התראה ליומן</string>
+
+
+    <string name="new_high_score">ניקוד גבוה חדש!</string>
+
+    <string name="won">ניצחת</string>
+    <string name="lost">הפסדת</string>
+    <string name="well_done">כל הכבוד!</string>
+    <string name="nice_try">ניסיון נחמד</string>
+    <string name="memory_card_game">משחק הזיכרון</string>
+    <string name="created_by">מגישים:</string>
+    <string name="created_by_name">עומר</string>
+    <string name="bar">בר</string>
+    <string name="itay">איתי</string>
+    <string name="kobi">קובי</string>
+
+    <string name="contact_us">צור קשר</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".views.fragment.EasyLevelFragment">
+
+
+    <TextView
+        android:id="@+id/topscoreeasy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_margin="20dp"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="@font/bold_font"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="5dp"
+        android:background="@drawable/gradient_clr"
+        android:text="@string/top_score"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/easylevelview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp" />
+
+
+    <TextView
+        android:id="@+id/counterr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/bold_font"
+        android:text="@string/time"
+        android:textColor="@color/yellow"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

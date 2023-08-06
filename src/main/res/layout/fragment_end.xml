@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_bg"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".views.fragment.ResultFragment">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gradient_clr"
+        android:padding="20dp"
+        android:layout_margin="50dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/totaltime"
+            android:text="Time"
+            android:textColor="@color/white"
+            android:fontFamily="@font/bold_font"
+            android:textSize="24sp"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv1"
+            android:textColor="@color/yellow"
+            android:textStyle="bold"
+            android:layout_marginTop="100dp"
+            android:fontFamily="@font/lemon_milk"
+            android:layout_marginBottom="50dp"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv2"
+            android:textColor="@color/dk_green"
+            android:fontFamily="@font/bold_font"
+            android:textSize="22sp"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text=""
+            android:textColor="#000"
+
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

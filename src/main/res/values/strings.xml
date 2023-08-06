@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Memory Card</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="easy_level">Easy Level</string>
+    <string name="hard_level">Hard Level</string>
+    <string name="high_scores">High Scores</string>
+    <string name="select_level">select level</string>
+    <string name="play_the_game">Lets play the game</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="check_top_scores_here">Check top scores here</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="select_language">Select Language</string>
+    <string name="memory_card">Memory Game</string>
+    <string name="time">Time</string>
+    <string name="top_score">Top Score : 0:</string>
+    <string name="add_event">Add Event To Calendar</string>
+    <string name="add_alarm">Add Alarm To Calendar</string>
+
+
+    <string name="new_high_score">New High Score!</string>
+
+    <string name="won">WON</string>
+    <string name="lost">LOST</string>
+    <string name="well_done">Well done!</string>
+    <string name="nice_try">Nice try</string>
+    <string name="memory_card_game">Memory card game</string>
+    <string name="created_by">Created By:</string>
+    <string name="created_by_name">Omer</string>
+    <string name="bar">Bar</string>
+    <string name="itay">Itay</string>
+    <string name="kobi">Kobi</string>
+    <string name="contact_us">Contact Us</string>
+
+</resources>
